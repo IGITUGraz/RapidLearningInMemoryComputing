@@ -4,7 +4,7 @@ This is the code repository for the paper
 
 Rapid learning with phase-change memory-based in-memory computing through learning-to-learn  
 *Thomas Ortner, Horst Petschenig, Athanasios Vasilopoulos, Roland Renner, Spela Brglez, Thomas Limbacher, Enrique Pinero, Alejandro Linares Barranco, Angeliki Pantazi, Robert Legenstein*  
-[ArXiv Link](https://arxiv.org/abs/)
+[ArXiv Link](https://arxiv.org/abs/2405.05141)
 
 ## Setup
 You need [Tensorflow](https://www.tensorflow.org/) to run this code. We used Python 3.9 and TensorFlow 2.5. See the corresponding [Conda](https://docs.conda.io/en/latest/) `environment.yml` file to install all necessary dependencies: 
